@@ -1,0 +1,14 @@
+Debug/
+Release/
+build/
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+.vscode/ 
+MDK-ARM/
+EWARM/
+Drivers/CMSIS/DSP/
